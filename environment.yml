@@ -1,0 +1,10 @@
+name: fastapi-hello
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - fastapi==0.112.2
+      - uvicorn[standard]==0.30.3
+
