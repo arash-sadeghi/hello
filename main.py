@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return "salamun alaykum anahita"
+    return "salamun alaykum sohrab"
