@@ -7,5 +7,5 @@ def read_root():
     return {
         "message": "salamun alaykum iren",
         "status": "success",
-        "location": "tehran"
+        "location": "bam"
         }
